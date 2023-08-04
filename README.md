@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm 5041A</h1>
+<h1>Hi 👋, I'm Sofia</h1>
 <h3>Full-stack web developer</h3>
 
 - Working on **the Toolbox UI library**
