@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Sofia Lapteva</h1>
 <h3>Full-stack web developer at <a href="https://diconium.com" target="_blank">diconium</a> </h3>
 
-- Working on **the Toolbox UI library**
+- Working on **the diconium-ui-toolbox library**
 - Interested in web technologies
 
 <h3 align="left">Languages and Tools:</h3>
