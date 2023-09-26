@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Sofia</h1>
-<h3>Full-stack web developer</h3>
+<h1>Hi 👋, I'm Sofia Lapteva</h1>
+<h3>Full-stack web developer at <a href="https://diconium.com" target="_blank">diconium</a> </h3>
 
 - Working on **the Toolbox UI library**
 - Interested in web technologies
